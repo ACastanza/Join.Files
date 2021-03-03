@@ -1,0 +1,34 @@
+[
+    {
+        "name": "File 1",
+        "description": "Configuration for File 1.",
+        "hidden": false,
+        "parameters": [
+            "File.1",
+            "File.1.Delimiter",
+            "File.1.Header",
+            "File.1.Column",
+            "File.1.Unmatched"
+        ]
+    },
+    {
+        "name": "File 2",
+        "description": "Configuration for File 2.",
+        "hidden": false,
+        "parameters": [
+            "File.2",
+            "File.2.Delimiter",
+            "File.2.Header",
+            "File.2.Column",
+            "File.2.Unmatched"
+        ]
+    },
+    {
+        "name": "Output",
+        "description": "Output settings.",
+        "hidden": false,
+        "parameters": [
+            "Output.Type"
+        ]
+    }
+]
